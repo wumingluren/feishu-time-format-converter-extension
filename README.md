@@ -19,8 +19,13 @@
 # 开发指南
 
 多维表格插件开发指南
+
 https://feishu.feishu.cn/docx/U3wodO5eqome3uxFAC3cl0qanIe
+
 边栏插件开发指南
+
 https://feishu.feishu.cn/docx/S1pMdbckEooVlhx53ZMcGGnMnKc
+
 多维表格「连接器插件」开发者指南
+
 https://feishu.feishu.cn/docx/GwBXdq7cmoZahfx8faQchcS2nXf
